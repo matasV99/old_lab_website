@@ -26,16 +26,16 @@
             <p style="text-align:center">B.A. in Natural Sciences, University of Cambridge, UK </p>
           </div>
       </li>
-       <!--Benny-->
+       <!--Judy-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/Benny.jpg" height="250px" class="img-responsive" alt="">
+            <img src="resources/judy photo.jfif" height="250px" class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Benny Wang </h3>
-            <p style="text-align:center">Post Doctoral Fellow</p>
-            <p style="text-align:center">Ph.D. Nanyang Technological University, Singapore</p>
+            <h3 style="text-align:center">Judy Saw</h3>
+            <p style="text-align:center">Assistant Lab Manager</p>
+            <p style="text-align:center">M.Sc National University of Singapore</p>
             <p style="text-align:center"> </p>
         </div>
       </li>
