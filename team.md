@@ -65,18 +65,6 @@
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
        </li>
-       <!--Zhang Zhiyi-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure>
-            <!--img-->
-            <img src="resources/anonymous.jpg" height="250px" class="img-responsive" alt="">
-            </figure>
-            <h3 style="text-align:center">Zhiyi Zhang</h3>
-            <p style="text-align:center">Undergraduate Intern</p>
-            <p style="text-align:center">Nanyang Technological University, Singapore</p>
-          </div>
-      </li>
     </ul>
     <!--dummy row to hold future teammates-->
     <ul class="row" style="margin:20px 0">
