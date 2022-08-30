@@ -65,17 +65,4 @@
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
        </li>
-    </ul>
-    <!--dummy row to hold future teammates-->
-    <ul class="row" style="margin:20px 0">
-    <!--new member-->
-    </ul>
-    <!--Join us section-->
-    <!--a href="http://www.freepik.com">join us image designed by rawpixel.com / Freepik</a-->
-    <div class="joinus-parent">
-      <div class="joinus-child">
-          <figure><img src="resources/joinus.jpg" class="img-responsive" alt=""></figure>
-          <h3 style="text-align:center"><a href="#contactus">Are you next? </a></h3>
-      </div>
-    </div>
   </div>
