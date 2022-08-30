@@ -52,6 +52,19 @@
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
        </li>
+       <!--Matas-->
+      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+          <div class="cnt-block equal-hight" style="height: 500px;">
+            <figure>
+            <!--img-->
+            <img src="resources/matas_photo.jpeg" height="250px"
+            class="img-responsive" alt="">
+            </figure>
+            <h3 style="text-align:center">Matas Vitkauskas</h3>
+            <p style="text-align:center">Research Officer</p>
+            <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
+          </div>
+       </li>
        <!--Zhang Zhiyi-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
