@@ -52,6 +52,8 @@
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
        </li>
+    <ul>
+    <ul class="row" style="margin:20px 0;">
        <!--Matas-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
@@ -65,4 +67,5 @@
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
        </li>
+    <ul>
   </div>
