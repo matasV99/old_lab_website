@@ -47,10 +47,8 @@
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
       </li>
-    <div>
-    <div class="row">
        <!--Matas-->
-     <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
@@ -60,7 +58,9 @@
             <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
-     </li>
+       </li>
+    <div>
+    <div class="row">
        <!--Jonathan-->
      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
