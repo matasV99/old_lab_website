@@ -27,7 +27,7 @@
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
-            <img src="resources/judy photo.jfif" style="width:2500px;height:250px;">
+            <img src="resources/judy photo.jfif" style="width:250px;height:250px;">
             </figure>
             <h3 style="text-align:center">Judy Saw</h3>
             <p style="text-align:center">Assistant Lab Manager</p>
