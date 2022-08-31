@@ -60,7 +60,7 @@
             <img src="resources/matas_photo.jpeg" height="250px" width = "200px"
             class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">Matas Vitkauskas</h3>
+            <h3 style="text-align:center">test test Matas Vitkauskas</h3>
             <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
