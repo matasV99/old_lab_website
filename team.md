@@ -16,7 +16,7 @@
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/Liu Jinyue.jpg"  
-            height="250px" width = "200px" class="img-responsive" alt="">
+            height="250px" width = "200px">
             </figure>
             <h3 style="text-align:center">Jinyue Liu</h3>
             <p style="text-align:center">Senior Research Scientist</p>
@@ -29,7 +29,7 @@
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
-            <img src="resources/judy photo.jfif" height="250px" width = "200px" class="img-responsive" alt="">
+            <img src="resources/judy photo.jfif" height="250px" width = "200px">
             </figure>
             <h3 style="text-align:center">Judy Saw</h3>
             <p style="text-align:center">Assistant Lab Manager</p>
@@ -42,8 +42,7 @@
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
-            <img src="resources/Ong Sui Ping.jpg" height="250px" width = "200px"
-            class="img-responsive" alt="">
+            <img src="resources/Ong Sui Ping.jpg" height="250px" width = "200px">
             </figure>
             <h3 style="text-align:center">Sui Ping Ong</h3>
             <p style="text-align:center">Senior Research Officer</p>
@@ -57,8 +56,7 @@
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
-            <img src="resources/matas_photo.jpeg" height="250px" width = "200px"
-            class="img-responsive" alt="">
+            <img src="resources/matas_photo.jpeg" height="250px" width = "200px">
             </figure>
             <h3 style="text-align:center">Matas Vitkauskas</h3>
             <p style="text-align:center">Research Officer</p>
@@ -70,8 +68,7 @@
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
-            <img src="resources/jonathan_photo.jfif" height="250px" width = "200px"
-            class="img-responsive" alt="">
+            <img src="resources/jonathan_photo.jfif" "height="250px" width = "200px">
             </figure>
             <h3 style="text-align:center">Jonathan Jayadi</h3>
             <p style="text-align:center">Undergraduate Intern</p>
