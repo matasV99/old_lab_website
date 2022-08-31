@@ -4,16 +4,14 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/main.css">
-
  
  <!--text and image-->
  <div class="container">
     <!--List of teammates-->
     <ul class="row" style="margin:20px 0;">
-
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="width:250px;height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/Liu Jinyue.jpg" style="width:200px;height:250px;">
@@ -24,10 +22,9 @@
             <p style="text-align:center">B.A. in Natural Sciences, University of Cambridge, UK </p>
           </div>
       </li>
-
        <!--Judy-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="width:250px;height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/judy photo.jfif" style="width:200px;height:250px;">
@@ -38,10 +35,9 @@
             <p style="text-align:center"> </p>
         </div>
       </li>
-
        <!--Sui Ping-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="width:250px;height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/Ong Sui Ping.jpg" style="width:200px;height:250px;">
@@ -51,14 +47,11 @@
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
       </li>
-
     <ul>
-
-    <ul class="row">
-
+    <ul class="row" style="margin:20px 0;">
        <!--Matas-->
      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="width:250px;height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/matas_photo.jpeg" style="width:200px;height:250px;">
@@ -68,20 +61,17 @@
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
      </li>
-
        <!--Jonathan-->
      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="col-12 col-md-6 col-lg-3" style="width:250px;height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/jonathan_photo.jfif" style="width:200px;height:250px;">
             </figure>
-            <h3 style="text-align:center"> test Jonathan Jayadi</h3>
+            <h3 style="text-align:center">Jonathan Jayadi</h3>
             <p style="text-align:center">Undergraduate Intern</p>
-            <p style="text-align:center">Junior at Atma Jaya Catholic University of Indonesia</p>
+            <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
      </li>
-
     <ul>
-
   </div>
