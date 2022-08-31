@@ -1,4 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -57,7 +57,7 @@
     <ul class="row">
 
        <!--Matas-->
-     <li class="col" style="list-style-type: none">
+     <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="width:250px;height: 600px;">
             <figure style="margin:auto;">
             <!--img-->
@@ -70,8 +70,8 @@
      </li>
 
        <!--Jonathan-->
-     <li class="col" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="width:250px;height: 600px;">
+     <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+          <div class="col-12 col-md-6 col-lg-3" style="width:250px;height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/jonathan_photo.jfif" style="width:200px;height:250px;">
