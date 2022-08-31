@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="css/main.css">
 
 <!--text and image-->
-<div class="container-fluid bg-black" style="background-image:url(resources/brain_background.jpg); height:650px; overflow=auto">
+<div class="container" style="background-image:url(resources/brain_background.jpg); height:650px;">
       <p class="researchtext" style="color: white; text-align:center; padding-top:35px">
         <b> Nucleic acid-based technologies to investigate the human brain in healthy and diseased states </b>
       <p> <font size="2">  &nbsp; </p>
