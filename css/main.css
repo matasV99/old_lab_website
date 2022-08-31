@@ -157,7 +157,6 @@ margin:auto;
     padding-bottom: 60px;
 }
 
-.centerImage {
-    text-align:center;
-    display:block;
+.container{
+    overflow: "auto";
 }
