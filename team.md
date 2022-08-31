@@ -11,7 +11,7 @@
     <div class="row" style="margin:20px 0;">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/Liu Jinyue.jpg" style="width:250px;height:250px;class="img-responsive" alt="">
@@ -24,7 +24,7 @@
       </li>
        <!--Judy-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
             <img src="resources/judy photo.jfif" style="width:250px;height:250px;class="img-responsive" alt="">
@@ -37,7 +37,7 @@
       </li>
        <!--Sui Ping-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
             <img src="resources/Ong Sui Ping.jpg" style="width:250px;height:250px;class="img-responsive" alt="">
@@ -51,7 +51,7 @@
     <div class="row" style="margin:20px 0;">
        <!--Matas-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/matas_photo.jpeg" style="width:250px;height:250px;class="img-responsive" alt="">
@@ -63,7 +63,7 @@
       </li>
        <!--Jonathan-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 600px;">
+          <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
             <img src="resources/jonathan_photo.jfif" style="width:250px;height:250px;class="img-responsive" alt="">
