@@ -55,7 +55,7 @@
     <ul>
     <ul class="row" style="margin:20px 0;">
        <!--Matas-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+     <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
@@ -66,6 +66,19 @@
             <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
-       </li>
+      </li>
+       <!--Jonathan-->
+      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+          <div class="cnt-block equal-hight" style="height: 600px;">
+            <figure>
+            <!--img-->
+            <img src="resources/jonathan_photo.jfif" height="250px"
+            class="img-responsive" alt="">
+            </figure>
+            <h3 style="text-align:center">Jonathan [surname]</h3>
+            <p style="text-align:center">Undergraduate Intern</p>
+            <p style="text-align:center">[university, city]</p>
+          </div>
+      </li>
     <ul>
   </div>
