@@ -14,7 +14,7 @@
     <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure style="margin:auto;">
             <!--img-->
             <img src="resources/Liu Jinyue.jpg"  
@@ -28,7 +28,7 @@
       </li>
        <!--Judy-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/judy photo.jfif" height="250px" class="img-responsive" alt="">
@@ -41,7 +41,7 @@
       </li>
        <!--Sui Ping-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/Ong Sui Ping.jpg" height="250px"
@@ -56,7 +56,7 @@
     <ul class="row" style="margin:20px 0;">
        <!--Matas-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
+          <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
             <img src="resources/matas_photo.jpeg" height="250px"
