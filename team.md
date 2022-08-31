@@ -53,7 +53,7 @@
        <!--Matas-->
      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
-            <figure>
+            <figure style="margin:auto;">
             <!--img-->
             <img src="resources/matas_photo.jpeg" style="width:200px;height:250px;">
             </figure>
@@ -69,9 +69,9 @@
             <!--img-->
             <img src="resources/jonathan_photo.jfif" style="width:200px;height:250px;">
             </figure>
-            <h3 style="text-align:center">Jonathan Jayadi</h3>
+            <h3 style="text-align:center"> test Jonathan Jayadi</h3>
             <p style="text-align:center">Undergraduate Intern</p>
-            <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
+            <p style="text-align:center">Junior at Atma Jaya Catholic University of Indonesia</p>
           </div>
      </li>
     <ul>
