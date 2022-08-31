@@ -14,7 +14,7 @@
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure style="margin:auto;">
+            <figure style="margin:auto;text-align:center;">
             <!--img-->
             <img src="resources/Liu Jinyue.jpg"  
             height="250px" class="img-responsive" alt="">
@@ -28,7 +28,7 @@
        <!--Judy-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure>
+            <figure style = "text-align:center;">
             <!--img-->
             <img src="resources/judy photo.jfif" height="250px" class="img-responsive" alt="">
             </figure>
@@ -41,7 +41,7 @@
        <!--Sui Ping-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure>
+            <figure style = "text-align:center;">
             <!--img-->
             <img src="resources/Ong Sui Ping.jpg" height="250px"
             class="img-responsive" alt="">
@@ -57,7 +57,7 @@
     <!--Matas-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure>
+            <figure style = "text-align:center;">
             <!--img-->
             <img src="resources/matas_photo.jpeg" height="250px"
             class="img-responsive" alt="">
@@ -70,7 +70,7 @@
       <!--Jonathan-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure>
+            <figure style = "text-align:center;">
             <!--img-->
             <img src="resources/jonathan_photo.jfif" height="250px"
             class="img-responsive" alt="">
