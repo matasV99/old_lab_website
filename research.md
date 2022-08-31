@@ -3,15 +3,14 @@
 <link rel="stylesheet" type="text/css" href="css/main.css">
 
 <!--text and image-->
-<div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:400px;">
+<div class="container-fluid bg-black" style="background-image:url(resources/research-cropped.png); height:700px;">
       <p class="researchtext" style="color: white; text-align:center; padding-top:35px">
         <b> Nucleic acid-based technologies to investigate the human brain in healthy and diseased states </b>
       <p> <font size="2">  &nbsp; </p>
       </p>
       <p class="researchtext" style="color: white; text-align:left;> <font size="4">
-        Subtle abnormalities in fetal brain development have been show to increase individual's predisposition to lifelong chronic psychiatric disorders such as autism spectrum disorder (ASD) and schizophrenia. Understanding what goes awry in neurodevelopment is critical as it might reveal therapeutic portals for intervention in fetal and adult brains.
-        The main model used in the lab are cerebral organoids which are cultured pluripotent stem cells that self-assemble into physiologically-realistic 3-D cellular structures. Depending on how long cerebral organoids are cultured, they can resemble a brain of a 10-week fetus. To study disease we genetically engineer cerebral organoids to possess genetic mutations that predispose them to psychiatric disorders. We use two types of cerebral organoids in our research: cortical organoids and midbrain-like organoids. While cortical organoids are used to study fetal development, midbrain-like organoids are used to study Parkinson's disease. We believe that the use of a human-disease model, even if in early development, can show profound insights into the biology underpinning Parkinson's and is another research direction pursued in the lab.
+        Subtle abnormalities in fetal brain development have been show to increase individual's predisposition to lifelong chronic psychiatric disorders such as autism spectrum disorder (ASD) and schizophrenia. Understanding what goes awry in neurodevelopment is critical as it might reveal therapeutic portals for intervention in fetal and adult brains. <br>
+        The main model used in the lab are cerebral organoids which are cultured pluripotent stem cells that self-assemble into physiologically-realistic 3-D cellular structures. Depending on how long cerebral organoids are cultured, they can resemble a brain of a 10-week fetus. To study disease we genetically engineer cerebral organoids to possess genetic mutations that predispose them to psychiatric disorders. We use two types of cerebral organoids in our research: cortical organoids and midbrain-like organoids. While cortical organoids are used to study fetal development, midbrain-like organoids are used to study Parkinson's disease. We believe that the use of a human-disease model, even if in early development, can show profound insights into the biology underpinning Parkinson's and is another research direction pursued in the lab. <br>
         In order to better understand how neurological tissues responds to diseased states, we utilize a multi-omics approach that combines gene transcriptomics and spatial transcriptomics on a single-cell resolution. We ask questions like: how are the gene expression profiles of different cell-types perturbed in disease? Are there spatial patterns that underly these gene expression changes? The ultimate goal of our research is to contribute to the unravelling of complex psychiatric disorders which could help millions of patients around the world.
       </p>
-      
 </div>
