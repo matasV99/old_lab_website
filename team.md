@@ -49,7 +49,7 @@
             <p style="text-align:center">Senior Research Officer</p>
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
-       </li>
+      </li>
     <ul>
     <ul class="row" style="margin:20px 0;">
        <!--Matas-->
@@ -60,13 +60,13 @@
             <img src="resources/matas_photo.jpeg" height="250px" width = "200px"
             class="img-responsive" alt="">
             </figure>
-            <h3 style="text-align:center">test test Matas Vitkauskas</h3>
+            <h3 style="text-align:center">Matas Vitkauskas</h3>
             <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
-      </li>
+     </li>
        <!--Jonathan-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+     <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
@@ -77,6 +77,6 @@
             <p style="text-align:center">Undergraduate Intern</p>
             <p style="text-align:center">Junior at Atma Jaya Catholic University of Indonesia</p>
           </div>
-      </li>
+     </li>
     <ul>
   </div>
