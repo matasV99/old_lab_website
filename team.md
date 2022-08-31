@@ -51,7 +51,7 @@
           </div>
       </li>
     <ul>
-    <ul class="row" style="margin:20px 0;">
+    <ul class="row">
        <!--Matas-->
      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
