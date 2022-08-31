@@ -48,11 +48,11 @@
           </div>
       </li>
     <div>
-    <div class="row">
+    <div class="row" style="margin:20px 0;">
        <!--Matas-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
-            <figure>
+            <figure style="margin:auto;">
             <!--img-->
             <img src="resources/matas_photo.jpeg" style="width:250px;height:250px;class="img-responsive" alt="">
             </figure>
