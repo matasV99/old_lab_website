@@ -8,7 +8,7 @@
  <!--text and image-->
  <div class="container">
     <!--List of teammates-->
-    <ul class="row" style="margin:20px 0;">
+    <div class="row" style="margin:20px 0;">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
@@ -47,12 +47,12 @@
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
       </li>
-    <ul>
-    <ul class="row" style="margin:20px 0;">
+    <div>
+    <div class="row">
        <!--Matas-->
      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
-            <figure style="margin:auto;">
+            <figure>
             <!--img-->
             <img src="resources/matas_photo.jpeg" style="width:200px;height:250px;">
             </figure>
@@ -73,5 +73,5 @@
             <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
      </li>
-    <ul>
+    <div>
   </div>
