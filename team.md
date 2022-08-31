@@ -10,7 +10,7 @@
     <!--List of teammates-->
     <div class="row" style="margin:20px 0;">
       <!--Jinyue-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure style="margin:auto;">
             <!--img-->
@@ -23,11 +23,11 @@
           </div>
       </li>
        <!--Judy-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
-            <img src="resources/judy photo.jfif" style="width:250px;height:250px;">
+            <img src="resources/judy photo.jfif" style="width:2500px;height:250px;">
             </figure>
             <h3 style="text-align:center">Judy Saw</h3>
             <p style="text-align:center">Assistant Lab Manager</p>
@@ -36,7 +36,7 @@
         </div>
       </li>
        <!--Sui Ping-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
@@ -47,8 +47,10 @@
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
       </li>
+    <div>
+    <div class="row">
        <!--Matas-->
-      <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
@@ -58,11 +60,9 @@
             <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
-       </li>
-    <div>
-    <div class="row">
+      </li>
        <!--Jonathan-->
-     <li class="col-12 col-md-6 col-lg-3" style="list-style-type: none">
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 600px;">
             <figure>
             <!--img-->
@@ -72,6 +72,6 @@
             <p style="text-align:center">Undergraduate Intern</p>
             <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
-     </li>
+      </li>
     <div>
   </div>
