@@ -7,14 +7,17 @@
  
  <!--text and image-->
  <div class="container">
+    <!--Meet out team-->
+    <h3 style="text-align:center"> Meet our team </h3>
     <!--List of teammates-->
-    <div class="row" style="margin:20px 0;">
+    <ul class="row" style="margin:20px 0;">
       <!--Jinyue-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure style="margin:auto;">
             <!--img-->
-            <img src="resources/Liu Jinyue.jpg" height"250px" class="img-responsive" alt="">
+            <img src="resources/Liu Jinyue.jpg"  
+            height="250px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Jinyue Liu</h3>
             <p style="text-align:center">Senior Research Scientist</p>
@@ -27,7 +30,7 @@
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/judy photo.jfif" height"250px" class="img-responsive" alt="">
+            <img src="resources/judy photo.jfif" height="250px" class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Judy Saw</h3>
             <p style="text-align:center">Assistant Lab Manager</p>
@@ -40,38 +43,42 @@
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/Ong Sui Ping.jpg" height"250px" class="img-responsive" alt="">
+            <img src="resources/Ong Sui Ping.jpg" height="250px"
+            class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Sui Ping Ong</h3>
             <p style="text-align:center">Senior Research Officer</p>
             <p style="text-align:center">B.Sc National University of Singapore</p>
           </div>
       </li>
-    <div>
-    <div class="row" style="margin:20px 0;">
-       <!--Matas-->
+    </ul>
+    <!--dummy row to hold future teammates-->
+    <ul class="row" style="margin:20px 0">
+    <!--Matas-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure style="margin:auto;">
+            <figure>
             <!--img-->
-            <img src="resources/matas_photo.jpeg" height"250px" class="img-responsive" alt="">
+            <img src="resources/matas_photo.jpeg" height="250px"
+            class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Matas Vitkauskas</h3>
             <p style="text-align:center">Research Officer</p>
             <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
           </div>
       </li>
-       <!--Jonathan-->
+      <!--Jonathan-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure>
             <!--img-->
-            <img src="resources/jonathan_photo.jfif" height"250px" class="img-responsive" alt="">
+            <img src="resources/jonathan_photo.jfif" height="250px"
+            class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Jonathan Jayadi</h3>
             <p style="text-align:center">Undergraduate Intern</p>
             <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
-      </li>
-    <div>
+      </li>      
+    </ul>
   </div>
