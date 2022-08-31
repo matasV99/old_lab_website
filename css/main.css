@@ -156,3 +156,8 @@ margin:auto;
     padding-top: 60px;
     padding-bottom: 60px;
 }
+
+.centerImage {
+    text-align:center;
+    display:block;
+}
