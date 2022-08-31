@@ -71,7 +71,7 @@
             </figure>
             <h3 style="text-align:center">Jonathan Jayadi</h3>
             <p style="text-align:center">Undergraduate Intern</p>
-            <p style="text-align:center">Junior at Atma Jaya Catholic University of Indonesia</p>
+            <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
      </li>
     <ul>
