@@ -59,7 +59,7 @@
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure style = "text-align:center;">
             <!--img-->
-            <img src="resources/matas_photo.jpeg" height="250px"
+            <img src="resources/matas_p1.jpeg" height="250px"
             class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Matas Vitkauskas</h3>
