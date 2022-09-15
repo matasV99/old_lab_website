@@ -85,7 +85,7 @@
           <div class="cnt-block equal-hight" style="height: 500px;">
             <figure style = "text-align:center;">
             <!--img-->
-            <img src="resources/Denise.png" height="250px"
+            <img src="resources/Denise.jpg" height="250px"
             class="img-responsive" alt="">
             </figure>
             <h3 style="text-align:center">Denise Leong Fong Mei</h3>
