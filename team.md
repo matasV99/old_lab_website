@@ -79,6 +79,19 @@
             <p style="text-align:center">Undergraduate Intern</p>
             <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
-      </li>      
+      </li> 
+      <!--Denise>
+      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
+          <div class="cnt-block equal-hight" style="height: 500px;">
+            <figure style = "text-align:center;">
+            <!--img-->
+            <img src="resources/Denise_photo.png" height="250px"
+            class="img-responsive" alt="">
+            </figure>
+            <h3 style="text-align:center">Denise Leong Fong Mei</h3>
+            <p style="text-align:center">Senior Research Officer</p>
+            <p style="text-align:center">B.Sc University Of Melbourne, Australia</p>
+          </div>
+      </li>         
     </ul>
   </div>
