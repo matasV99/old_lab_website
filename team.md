@@ -80,7 +80,6 @@
             <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
         </li>
-
         <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
             <div class="cnt-block equal-hight" style="height: 500px;">
               <figure style = "text-align:center;">
@@ -92,8 +91,7 @@
               <p style="text-align:center">Senior Research Officer</p>
               <p style="text-align:center">B.Sc University Of Melbourne, Australia</p>
             </div>
-          </li>
-          
+          </li> 
       <!-- </li> 
       <!--Denise>
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
